@@ -1,23 +1,27 @@
-## Algorithm Course Assignments & Exams in WSU ##
-```cpt_s 350 Algorithm```  
-**Finite automata  
+# WSU-cpts-350-Algorithm 
+**Algorithm Course Assignments & Exams in WSU**  
+
+Finite automata  
+
 Partition  
+
 Time Complexity & Memery Complexity (Best/Worst/Average-Case)  
-Sorting**  
+
+Sorting  
 - Insert Sort  
 - Quick Sort  
 - Merge Sort  
 - Bubble Sort
 - Selection Sort  
 
-**Divide and Conquer   
+Divide and Conquer   
 Regular Expression  
-Search Tree**
+Search Tree
 - BST
-- DFS
+- DFS  
 
-**Dynamic Programming  
+Dynamic Programming  
 Graph  
 Shortest Paths  
-Polynomial time & non-Polynoimal time**  
+Polynomial time & non-Polynoimal time  
 > Go Cougs!
